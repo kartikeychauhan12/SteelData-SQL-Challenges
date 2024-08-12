@@ -6,9 +6,9 @@ A special thanks to [Matthew Steel
 ](https://www.linkedin.com/in/matthew-steel-4a7a8915b/) and [DataCoach
 ](https://www.linkedin.com/company/steel-data-uk/) for creating these insightful and engaging SQL Challenges! 
 
-# ✤ Challenge case studies
+# ✤ Challenges
 Please find the solution links for the 2 Challenges below. Simply click on the links to access each solution.
 
-✤ [Case Study #1: Danny's Diner](https://github.com/kartikeychauhan12/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner)
+✤ [SteelData-SQL-Challenge-1](https://github.com/kartikeychauhan12/SteelData-SQL-Challenges/tree/main/SteelData-SQL-Challenge-1)
 
-✤ [Case Study #2 - Pizza Runner](https://github.com/kartikeychauhan12/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner)
+✤ [SteelData-SQL-Challenge-2](https://github.com/kartikeychauhan12/SteelData-SQL-Challenges/tree/main/SteelData-SQL-Challenge-2)
