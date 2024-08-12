@@ -1,9 +1,9 @@
-This repository serves as the solution for the First 2 Challenges from the Steel Data SQL Challenges
+This repository serves as the solution for the First 2 Challenges from the Steel Data SQL Challenges.
 
 Key learnings: Learned the use of aggregate functions, joins, order by, and group by.
 
 A special thanks to [Matthew Steel
-](https://www.linkedin.com/in/matthew-steel-4a7a8915b/) [DataCoach
+](https://www.linkedin.com/in/matthew-steel-4a7a8915b/) and [DataCoach
 ](https://www.linkedin.com/company/steel-data-uk/) for creating these insightful and engaging SQL Challenges! 
 
 # ✤ Challenge case studies
